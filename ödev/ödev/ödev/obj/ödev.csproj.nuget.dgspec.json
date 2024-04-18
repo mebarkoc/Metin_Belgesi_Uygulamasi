@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Muhammed Emin BARKOÇ\\Desktop\\NESNEYE DAYALI PROG\\ödev\\ödev\\ödev\\ödev.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Muhammed Emin BARKOÇ\\Desktop\\NESNEYE DAYALI PROG\\ödev\\ödev\\ödev\\ödev.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Muhammed Emin BARKOÇ\\Desktop\\NESNEYE DAYALI PROG\\ödev\\ödev\\ödev\\ödev.csproj",
+        "projectName": "ödev",
+        "projectPath": "C:\\Users\\Muhammed Emin BARKOÇ\\Desktop\\NESNEYE DAYALI PROG\\ödev\\ödev\\ödev\\ödev.csproj",
+        "packagesPath": "C:\\Users\\Muhammed Emin BARKOÇ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Muhammed Emin BARKOÇ\\Desktop\\NESNEYE DAYALI PROG\\ödev\\ödev\\ödev\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Muhammed Emin BARKOÇ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

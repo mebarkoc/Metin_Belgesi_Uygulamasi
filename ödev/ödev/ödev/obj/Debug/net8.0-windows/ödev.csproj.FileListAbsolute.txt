@@ -1,0 +1,32 @@
+C:\Users\Muhammed Emin BARKOÇ\Desktop\ödev\ödev\ödev\bin\Debug\net8.0-windows\ödev.exe
+C:\Users\Muhammed Emin BARKOÇ\Desktop\ödev\ödev\ödev\bin\Debug\net8.0-windows\ödev.deps.json
+C:\Users\Muhammed Emin BARKOÇ\Desktop\ödev\ödev\ödev\bin\Debug\net8.0-windows\ödev.runtimeconfig.json
+C:\Users\Muhammed Emin BARKOÇ\Desktop\ödev\ödev\ödev\bin\Debug\net8.0-windows\ödev.dll
+C:\Users\Muhammed Emin BARKOÇ\Desktop\ödev\ödev\ödev\bin\Debug\net8.0-windows\ödev.pdb
+C:\Users\Muhammed Emin BARKOÇ\Desktop\ödev\ödev\ödev\obj\Debug\net8.0-windows\ödev.Form1.resources
+C:\Users\Muhammed Emin BARKOÇ\Desktop\ödev\ödev\ödev\obj\Debug\net8.0-windows\ödev.csproj.GenerateResource.cache
+C:\Users\Muhammed Emin BARKOÇ\Desktop\ödev\ödev\ödev\obj\Debug\net8.0-windows\ödev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed Emin BARKOÇ\Desktop\ödev\ödev\ödev\obj\Debug\net8.0-windows\ödev.AssemblyInfoInputs.cache
+C:\Users\Muhammed Emin BARKOÇ\Desktop\ödev\ödev\ödev\obj\Debug\net8.0-windows\ödev.AssemblyInfo.cs
+C:\Users\Muhammed Emin BARKOÇ\Desktop\ödev\ödev\ödev\obj\Debug\net8.0-windows\ödev.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Emin BARKOÇ\Desktop\ödev\ödev\ödev\obj\Debug\net8.0-windows\ödev.dll
+C:\Users\Muhammed Emin BARKOÇ\Desktop\ödev\ödev\ödev\obj\Debug\net8.0-windows\refint\ödev.dll
+C:\Users\Muhammed Emin BARKOÇ\Desktop\ödev\ödev\ödev\obj\Debug\net8.0-windows\ödev.pdb
+C:\Users\Muhammed Emin BARKOÇ\Desktop\ödev\ödev\ödev\obj\Debug\net8.0-windows\ödev.genruntimeconfig.cache
+C:\Users\Muhammed Emin BARKOÇ\Desktop\ödev\ödev\ödev\obj\Debug\net8.0-windows\ref\ödev.dll
+C:\Users\Muhammed Emin BARKOÇ\Desktop\NESNEYE DAYALI PROG\ödev\ödev\ödev\obj\Debug\net8.0-windows\ödev.Form1.resources
+C:\Users\Muhammed Emin BARKOÇ\Desktop\NESNEYE DAYALI PROG\ödev\ödev\ödev\obj\Debug\net8.0-windows\ödev.csproj.GenerateResource.cache
+C:\Users\Muhammed Emin BARKOÇ\Desktop\NESNEYE DAYALI PROG\ödev\ödev\ödev\obj\Debug\net8.0-windows\ödev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed Emin BARKOÇ\Desktop\NESNEYE DAYALI PROG\ödev\ödev\ödev\obj\Debug\net8.0-windows\ödev.AssemblyInfoInputs.cache
+C:\Users\Muhammed Emin BARKOÇ\Desktop\NESNEYE DAYALI PROG\ödev\ödev\ödev\obj\Debug\net8.0-windows\ödev.AssemblyInfo.cs
+C:\Users\Muhammed Emin BARKOÇ\Desktop\NESNEYE DAYALI PROG\ödev\ödev\ödev\obj\Debug\net8.0-windows\ödev.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Emin BARKOÇ\Desktop\NESNEYE DAYALI PROG\ödev\ödev\ödev\obj\Debug\net8.0-windows\ödev.dll
+C:\Users\Muhammed Emin BARKOÇ\Desktop\NESNEYE DAYALI PROG\ödev\ödev\ödev\obj\Debug\net8.0-windows\refint\ödev.dll
+C:\Users\Muhammed Emin BARKOÇ\Desktop\NESNEYE DAYALI PROG\ödev\ödev\ödev\obj\Debug\net8.0-windows\ödev.pdb
+C:\Users\Muhammed Emin BARKOÇ\Desktop\NESNEYE DAYALI PROG\ödev\ödev\ödev\bin\Debug\net8.0-windows\ödev.exe
+C:\Users\Muhammed Emin BARKOÇ\Desktop\NESNEYE DAYALI PROG\ödev\ödev\ödev\bin\Debug\net8.0-windows\ödev.deps.json
+C:\Users\Muhammed Emin BARKOÇ\Desktop\NESNEYE DAYALI PROG\ödev\ödev\ödev\bin\Debug\net8.0-windows\ödev.runtimeconfig.json
+C:\Users\Muhammed Emin BARKOÇ\Desktop\NESNEYE DAYALI PROG\ödev\ödev\ödev\bin\Debug\net8.0-windows\ödev.dll
+C:\Users\Muhammed Emin BARKOÇ\Desktop\NESNEYE DAYALI PROG\ödev\ödev\ödev\bin\Debug\net8.0-windows\ödev.pdb
+C:\Users\Muhammed Emin BARKOÇ\Desktop\NESNEYE DAYALI PROG\ödev\ödev\ödev\obj\Debug\net8.0-windows\ödev.genruntimeconfig.cache
+C:\Users\Muhammed Emin BARKOÇ\Desktop\NESNEYE DAYALI PROG\ödev\ödev\ödev\obj\Debug\net8.0-windows\ref\ödev.dll
